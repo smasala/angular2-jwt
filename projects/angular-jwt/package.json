@@ -5,12 +5,12 @@
     "private": false,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/auth0/angular2-jwt"
+        "url": "git+https://github.com/smasala/angular2-jwt"
     },
     "author": "Sam Bellen",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/auth0/angular2-jwt/issues"
+        "url": "https://github.com/smasala/angular2-jwt/issues"
     },
     "keywords": [
         "angular",
@@ -18,7 +18,7 @@
         "authentication",
         "jwt"
     ],
-    "homepage": "https://github.com/auth0/angular2-jwt",
+    "homepage": "https://github.com/smasala/angular2-jwt",
     "peerDependencies": {
         "@angular/common": ">=7.1.0"
     },
