@@ -1,6 +1,6 @@
 {
-    "name": "@auth0/angular-jwt",
-    "version": "4.2.0",
+    "name": "@smasala/auth0-angular-jwt",
+    "version": "4.2.1",
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
